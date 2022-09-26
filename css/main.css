@@ -1,0 +1,122 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+header{
+    background-color: #2add5d;
+    display: flex;
+}
+
+header img{
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+header p{
+    margin-top: 70px;
+    margin-left: 740px;
+    color: #0050ff;
+    font-size: 12px;
+}
+
+.welcome{
+    display: flex;
+    background-color: #0050ff;
+    padding: 20px;
+    color: #2add5d;
+}
+
+.welcome_text{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.welcome_text h1{
+    padding-bottom: 30px;
+}
+
+.welcome_img{
+    height: 400px;
+    width: auto;
+}
+
+.green{
+    background-color: #2add5d;
+    color: #0050ff;
+    padding: 20px;
+}
+
+.blue{
+    background-color: #0050ff;
+    color: #2add5d;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.blue p{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.blue img{
+    width: 1327.27px;
+    height: auto;
+    padding-top: 20px;
+    margin-left: 65px;
+}
+
+.green p{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.green img{
+    width: 1327.27px;
+    height: auto;
+    padding-top: 20px;
+    margin-left: 65px;
+}
+
+.green img{
+    align-self: center;
+}
+
+.face_book{
+    background-color: #0050ff;
+    color: #2add5d;
+    padding: 20px;
+}
+
+.face_book h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.teachers{
+    display: flex;
+    align-content: space-between;
+}
+
+.teacher{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teachers img{
+    width: 150px;
+    height: 300px;
+    background-color: #2add5d;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #2add5d;
+    padding: 20px;
+}
